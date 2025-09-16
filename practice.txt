@@ -1,0 +1,3 @@
+📝 Steps to completely remove the secret & push successfully
+
+1️⃣ Make a fresh clone in a new folder:
